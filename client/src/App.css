@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.search-window, .select-lost-found {
+  margin: 10px;
+  border-radius: 6px;
+  font-size: 20px;
+}
